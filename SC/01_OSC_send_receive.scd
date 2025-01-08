@@ -1,0 +1,1 @@
+NetAddr("10.45.1.129", 8888).sendMsg("/hello")
